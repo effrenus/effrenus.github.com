@@ -5,7 +5,7 @@ video_url: //www.youtube.com/embed/IyVh74_SPCI
 video_host: youtube
 ---
 
-### Выступление Джейк Арчибальда (Jake Archibald), Google relation team
+### Выступление Джейка Арчибальда (Jake Archibald), Google relation team
 Прошло в форме интерактивного опроса на знание работы браузеров: парсинг документов, исполнение джаваскрипт.
 Участники отвечали применительно к Chrome, Safari, Firefox, IE (Opera не было).
 
