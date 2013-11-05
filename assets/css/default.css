@@ -9,3 +9,14 @@ body{
 .highlight {
 	margin-bottom: 1.25em;
 }
+
+.tag {
+	padding: 0 4px;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+}
+
+.compare {
+	overflow: hidden;
+	margin-bottom: 1em;
+}

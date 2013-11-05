@@ -3,6 +3,7 @@ layout: post
 title: Встреча оптимизаторов
 video_url: //www.youtube.com/embed/IyVh74_SPCI
 video_host: youtube
+page_type: "post"
 ---
 
 ### Выступление Джейка Арчибальда (Jake Archibald), Google relation team

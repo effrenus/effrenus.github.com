@@ -3,11 +3,16 @@ layout: default
 ---
 {{ content }}
 
+<h6>Теги</h6>
+{% if page.tags %}
+<ul class="inline-list tags-list">
 {% for tag in page.tags %}
-	{{ tag }}
+	<li class="tag">{{ tag }}</li>
 {% endfor %}
+</ul>
+{% endif %}
 
-<div id="disqus_thread"></div>
+<div id="disqus_thread" class="disqus"></div>
 <script type="text/javascript">
     var disqus_shortname = 'effrenus';
     (function() {
