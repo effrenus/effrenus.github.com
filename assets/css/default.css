@@ -2,6 +2,10 @@ body{
 	font-size: 16px;
 }
 
+header {
+    padding-top: 0.625em;
+}
+
 .page-layout{
 	width: 70em;
 }
@@ -19,4 +23,21 @@ body{
 .compare {
 	overflow: hidden;
 	margin-bottom: 1em;
+}
+
+.content ul {
+    margin: -0.95em 0 1em;
+    padding: 0;
+    list-style: none;
+}
+
+.content li:before {
+    content: '—';
+    margin-right: 5px;
+    color: #aaa;
+}
+
+footer {
+    padding: 1.25em 0;
+    font-size: 0.8em;
 }
